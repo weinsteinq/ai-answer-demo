@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HVAC Company - AI Answer Bar Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #004080;
+    }
+    .content {
+      max-width: 700px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h1>Welcome to ACME Heating & Cooling</h1>
+    <p>We keep your home cool in summer and warm in winter. Try our new AI Answer Bar to get fast answers with sources from our website.</p>
+    <p>Ask about emergency repair, financing, or how heat pumps compare to AC units!</p>
+  </div>
+
+  <!-- Load the AI Answer Bar -->
+  <script src="ai-search.js"></script>
+</body>
+</html>
